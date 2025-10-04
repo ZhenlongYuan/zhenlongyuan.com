@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#-main-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-main-publications"
 
   - title: "Activities"
     url: "/#-activities"
