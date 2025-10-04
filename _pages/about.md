@@ -89,11 +89,11 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**),
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/DVP-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo**
+DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
 
 **Yuan, Z**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
-AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+[AAAI Conference on Artificial Intelligence (**AAAI**), 2025.](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
@@ -102,7 +102,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo**
+MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo
 
 **Yuan, Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
