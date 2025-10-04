@@ -61,20 +61,6 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-
-**Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
-
-AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
-
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -128,6 +114,19 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
 [[Code]](https://github.com/ZhenlongYuan/SD-MVS)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/TSAR-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
+
+**Yuan, Z.**, Cao, J., Wang, Z., Li, Z..
+
+Pattern Recognition (**PR**), 2024.
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
+[[Code]](https://github.com/ZhenlongYuan/TSAR-MVS)
 </div>
 </div>
 
