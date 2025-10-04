@@ -37,7 +37,6 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -48,7 +47,6 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 **Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
