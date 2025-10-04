@@ -68,6 +68,8 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 **Zhenlong Yuan**, Dapeng Zhang, Zehao Li, Chengxuan Qian, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang.
 
+**Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
+
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
 </div>
@@ -78,7 +80,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) 
 
 [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://arxiv.org/abs/2503.13721)
 
-**Zhenlong Yuan**, Dapeng Zhang, Zehao Li, Chengxuan Qian, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang.
+**Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
@@ -93,8 +95,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**),
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
-[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[CODE](https://github.com/ZhenlongYuan/DVP-MVS)
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
