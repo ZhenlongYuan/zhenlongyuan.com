@@ -51,8 +51,6 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 International Conference on Learning Representations (**ICLR**) (Under Review), 2024.
 
-**Reported by well-known media [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
-
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
@@ -115,7 +113,7 @@ DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo
+[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://arxiv.org/abs/2503.11892)
 
 **Yuan, Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
