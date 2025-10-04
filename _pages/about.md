@@ -36,8 +36,6 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-International Conference on Learning Representations (**ICLR**) (Under Review), 2024.
-
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
@@ -48,8 +46,6 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 **AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**
 
 **Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
-
-International Conference on Learning Representations (**ICLR**) (Under Review), 2024.
 
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
