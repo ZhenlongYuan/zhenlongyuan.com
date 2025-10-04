@@ -30,7 +30,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 ## Multimodal LLMs Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Video-STAR: Reinforcing Zero-shot Video Understanding with Tools**
 
@@ -41,7 +41,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**
 
