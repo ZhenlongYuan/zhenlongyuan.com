@@ -62,11 +62,24 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo**
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
-IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
+**IEEE Transactions on Circuits and Systems for Video Technology ([IEEE TCSVT]()) (Under Review), 2025.**
+
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+
+**Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
+
+**AAAI Conference on Artificial Intelligence ([AAAI]()), 2024.**
 
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
