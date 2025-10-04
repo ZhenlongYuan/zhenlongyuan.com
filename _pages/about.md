@@ -36,17 +36,16 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 
 **Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Paper]](https://arxiv.org/abs/2509.01944v1)
 </div>
 </div>
 
@@ -54,27 +53,28 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/pdf/2506.13215)
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Paper]](https://arxiv.org/pdf/2506.13215)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS++)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://arxiv.org/abs/2503.13721)
 
 **Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://arxiv.org/abs/2503.13721)
+[[Code]](https://github.com/ZhenlongYuan/SED-MVS)
 </div>
 </div>
 
