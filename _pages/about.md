@@ -32,7 +32,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Video-STAR: Reinforcing Zero-shot Video Understanding with Tools**
+Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
@@ -60,7 +60,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
-**IEEE Transactions on Circuits and Systems for Video Technology ([IEEE TCSVT]()) (Under Review), 2025.**
+IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
@@ -73,7 +73,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
-**AAAI Conference on Artificial Intelligence ([AAAI]()), 2024.**
+AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
@@ -83,11 +83,11 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint
+[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 
 **Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
-**IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2025.**
+IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
