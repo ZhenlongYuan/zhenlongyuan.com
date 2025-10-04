@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "zh-CN"
 title                    : "Zhenlong Yuan"
-title_separator          : "-"
+title_separator          : "-" 
 name                     : "Zhenlong Yuan" 
 description              : "Communicating 💬, Collaborating🤝, Creating 💡 - Collectively Advancing 🚀"
 repository               : "ZhenlongYuan.github.io"
