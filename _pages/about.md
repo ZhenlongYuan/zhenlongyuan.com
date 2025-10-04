@@ -8,51 +8,124 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🧑‍🎨 About Me 
+I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology (ICT), Chinese Academy of Sciences (UCAS)](https://www.ict.ac.cn/) (中国科学院计算技术研究所), advised by Zhaoqi Wang (王兆其). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes vision-language model (VLM), medical image and 3D computer vision (3DCV). 
+I have published 10+ papers at the top international AI conferences including NeurIPS, ICLR, CVPR, ICCV, AAAI, etc. and jourlnal including IEEE TIP (IF 13.7), IEEE TCSVT (IF 11.1), IEEE TMM (IF 9,7), etc.
+If you are seeking any form of **academic cooperation**, please feel free to email me at [yuanzhenlong21b@ict.ac.cn](mailto:yuanzhenlong21b@ict.ac.cn)
 
+# 📚 Research Interests
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2025.09*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
+- *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+
+# 📝 Selected Publications 
+
+## Multimodal LLMs Post-Training
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Preprint**
+
+**Zhenlong Yuan**<sup>*</sup>, Xiangyan Qu<sup>*</sup>, Chengxuan Qian<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/)<sup>†</sup>, [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
+
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+International Conference on Learning Representations (**ICLR**) (Under Review), 2024.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Reported by well-known media [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
+
+
+</div>
+</div>
+
+## 3D Vision
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
+
+**Zhenlong Yuan**, Dapeng Zhang, Zehao Li, Chengxuan Qian, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang.
+
+IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://arxiv.org/abs/2503.13721)
+
+**Zhenlong Yuan**, Dapeng Zhang, Zehao Li, Chengxuan Qian, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang.
+
+IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/DVP-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo**
+
+**Yuan, Z**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
+
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[CODE](https://github.com/ZhenlongYuan/DVP-MVS)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo**
+
+**Yuan, Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
+
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
+[[Code]](https://github.com/ZhenlongYuan/MSP-MVS)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/SD-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization**
+
+**Yuan, Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
+
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
+[[Code]](https://github.com/ZhenlongYuan/SD-MVS)
+</div>
+</div>
+
+
+# 🎖 Academical Services
+- *2024.12* Lenovo Enterprise Scholarship (Top 1%)
+- *2022.10-2024.10* Three Times ICT First Class Scholarships (Top 5%)
+- *2022.05-2024.05* Three Times UCAS Outstanding Student Awards 
