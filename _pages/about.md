@@ -30,7 +30,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 ## Multimodal LLMs Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Video-STAR: Reinforcing Zero-shot Video Understanding with Tools**
 
@@ -43,7 +43,7 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**
 
@@ -60,7 +60,7 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 ## 3D Vision
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo**
 
@@ -73,7 +73,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint**
