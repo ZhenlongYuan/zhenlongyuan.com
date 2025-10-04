@@ -115,7 +115,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/SD-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization**
+[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://arxiv.org/abs/2503.11892)
 
 **Yuan, Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
@@ -127,7 +127,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 </div>
 
 
-# 🎖 Academical Services
+# 🎖 Activities
 - *2024.12* Lenovo Enterprise Scholarship (Top 1%)
 - *2022.10-2024.10* Three Times ICT First Class Scholarships (Top 5%)
 - *2022.05-2024.05* Three Times UCAS Outstanding Student Awards 
