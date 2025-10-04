@@ -21,9 +21,18 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
-- *2025.09*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, which is now available on ArXiv!
-
+- *2025.10*: &nbsp;🎉🎉 We propose Video-STAR, which is now available on ArXiv!
+- *2025.08*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
+- *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
+- *2025.05*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
+- *2025.05*: &nbsp;🎉🎉 Our work [SED-MVS](https://arxiv.org/abs/2509.01944v1) has been ***Accepted*** by ***TCSVT 2025***.
+- *2024.12*: &nbsp;🎉🎉 We propose [SED-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
+- *2024.12*: &nbsp;🎉🎉 Our work [DVP-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2025***.
+- *2024.12*: &nbsp;🎉🎉 Our work [MSP-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2025***.
+- *2024.08*: &nbsp;🎉🎉 We propose [DVP-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
+- *2024.08*: &nbsp;🎉🎉 We propose [MSP-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
+- *2024.05*: &nbsp;🎉🎉 Our work [TSAR-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***PR 2024***.
+- *2023.12*: &nbsp;🎉🎉 Our work [SD-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2024***.
 
 
 # 📝 Selected Publications 
