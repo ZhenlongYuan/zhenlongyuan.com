@@ -36,8 +36,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -47,8 +47,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -62,8 +62,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **IEEE Transactions on Circuits and Systems for Video Technology ([IEEE TCSVT]()) (Under Review), 2025.**
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -75,8 +75,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 **AAAI Conference on Artificial Intelligence ([AAAI]()), 2024.**
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
@@ -96,11 +96,11 @@ SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/DVP-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
+[DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 
 **Yuan, Z**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
-[AAAI Conference on Artificial Intelligence (**AAAI**), 2025.](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 [[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 [[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
@@ -109,7 +109,7 @@ DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://arxiv.org/abs/2503.11892)
+[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
 
 **Yuan, Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
