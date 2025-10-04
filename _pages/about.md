@@ -86,8 +86,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**),
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
