@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑‍🎨 About Me 
+# About Me 
 I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology (ICT), Chinese Academy of Sciences (UCAS)](https://www.ict.ac.cn/) (中国科学院计算技术研究所), advised by Zhaoqi Wang (王兆其). 
 
 My research interest includes vision-language model (VLM), medical image and 3D computer vision (3DCV). 
@@ -117,7 +117,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 **Yuan, Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
-AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
 [[Code]](https://github.com/ZhenlongYuan/SD-MVS)
