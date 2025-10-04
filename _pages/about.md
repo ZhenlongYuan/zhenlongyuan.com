@@ -62,27 +62,28 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
-
-**Zhenlong Yuan**, Dapeng Zhang, Zehao Li, Chengxuan Qian, Jianing Chen, Yinda Chen, Kehua Chen, Tianlu Mao, Zhaoxin Li, Hao Jiang and Zhaoqi Wang.
+**DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo**
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://arxiv.org/abs/2503.13721)
+**SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint**
 
 **Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
