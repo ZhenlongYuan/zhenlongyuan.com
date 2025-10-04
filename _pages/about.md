@@ -76,14 +76,14 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SED-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint**
+SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint
 
 **Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
-IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
+**IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2025.**
 
-[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
