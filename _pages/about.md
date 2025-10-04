@@ -32,22 +32,20 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**Video-STAR: Reinforcing Zero-shot Video Understanding with Tools**
 
-Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
+**Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
+International Conference on Learning Representations (**ICLR**) (Under Review), 2024.
 
-**Preprint**
-
-**Zhenlong Yuan**<sup>*</sup>, Xiangyan Qu<sup>*</sup>, Chengxuan Qian<sup>†</sup>, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, [Yiwei Wang](https://wangywust.github.io/), [Yujun Cai](https://vanoracai.github.io/)<sup>†</sup>, [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en).
-
-
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
+**AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**
 
 **Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
@@ -55,7 +53,8 @@ International Conference on Learning Representations (**ICLR**) (Under Review), 
 
 **Reported by well-known media [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-
+[[PAPER]](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+[[CODE]](https://github.com/ZhenlongYuan/DVP-MVS)
 </div>
 </div>
 
