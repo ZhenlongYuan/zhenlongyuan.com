@@ -19,23 +19,24 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 📚 Research Interests
 
-# 🔥 News
+# 🔥 Main News
 
 - *2025.10*: &nbsp;🎉🎉 We propose Video-STAR, which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
 - *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
-- *2025.05*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
-- *2025.05*: &nbsp;🎉🎉 Our work [SED-MVS](https://arxiv.org/abs/2509.01944v1) has been ***Accepted*** by ***TCSVT 2025***.
-- *2024.12*: &nbsp;🎉🎉 We propose [SED-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
-- *2024.12*: &nbsp;🎉🎉 Our work [DVP-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2025***.
-- *2024.12*: &nbsp;🎉🎉 Our work [MSP-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2025***.
-- *2024.08*: &nbsp;🎉🎉 We propose [DVP-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
-- *2024.08*: &nbsp;🎉🎉 We propose [MSP-MVS](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
-- *2024.05*: &nbsp;🎉🎉 Our work [TSAR-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***PR 2024***.
-- *2023.12*: &nbsp;🎉🎉 Our work [SD-MVS](https://arxiv.org/abs/2508.01594) has been ***Accepted*** by ***AAAI 2024***.
+- *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), which is now available on ArXiv!
+- *2025.05*: &nbsp;🎉🎉 Our work [SED-MVS](https://ieeexplore.ieee.org/document/11016951) has been ***Accepted*** by ***TCSVT 2025***.
+- *2024.12*: &nbsp;🎉🎉 We propose [SED-MVS](https://arxiv.org/abs/2503.13721), which is now available on ArXiv!
+- *2024.12*: &nbsp;🎉🎉 Our work [DVP-MVS](https://ojs.aaai.org/index.php/AAAI/article/view/33056) has been ***Accepted*** by ***AAAI 2025***.
+- *2024.12*: &nbsp;🎉🎉 Our work [MSP-MVS](https://ojs.aaai.org/index.php/AAAI/article/view/33057) has been ***Accepted*** by ***AAAI 2025***.
+- *2024.08*: &nbsp;🎉🎉 We propose [DVP-MVS](https://arxiv.org/abs/2412.11578), which is now available on ArXiv!
+- *2024.08*: &nbsp;🎉🎉 We propose [MSP-MVS](https://arxiv.org/abs/2407.19323), which is now available on ArXiv!
+- *2024.05*: &nbsp;🎉🎉 Our work [TSAR-MVS](https://www.sciencedirect.com/science/article/pii/S0031320324003169) has been ***Accepted*** by ***PR 2024***.
+- *2024.01*: &nbsp;🎉🎉 We propose [TSAR-MVS](https://arxiv.org/abs/2308.09990), which is now available on ArXiv!
+- *2023.12*: &nbsp;🎉🎉 Our work [SD-MVS](https://ojs.aaai.org/index.php/AAAI/article/view/28512) has been ***Accepted*** by ***AAAI 2024***.
+- *2023.09*: &nbsp;🎉🎉 We propose [SD-MVS](https://arxiv.org/abs/2401.06385), which is now available on ArXiv!
 
-
-# 📝 Selected Publications 
+# 📝 Main Publications 
 
 ## Multimodal LLMs Post-Training
 
@@ -62,13 +63,13 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/DVP-MVS++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/pdf/2506.13215)
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
 
 **Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
-[[Paper]](https://arxiv.org/pdf/2506.13215)
+[[Paper]](https://arxiv.org/abs/2506.13215)
 [[Code]](https://github.com/ZhenlongYuan/DVP-MVS++)
 </div>
 </div>
@@ -115,7 +116,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/SD-MVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://arxiv.org/abs/2503.11892)
+[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
 
 **Yuan, Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
