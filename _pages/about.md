@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me 
-I'm currently a research intern in AMAP <img src='./images/AMAP.png' style="width: 2em;">, Alibaba <img src='./images/Alibaba.png' style="width: 1.5em;">, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am fortunate to deeply collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhu Li](https://l.web.umkc.edu/lizhu/) and [LiangLin](http://www.linliang.net/). 
+I'm currently a research intern in AMAP <img src='./images/AMAP.png' style="width: 1.8em;">, Alibaba <img src='./images/Alibaba.png' style="width: 1.8em;">, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am fortunate to deeply collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhu Li](https://l.web.umkc.edu/lizhu/) and [LiangLin](http://www.linliang.net/). 
 Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ZhenlongYuan/google-scholar-badge/data.json&logo=googlescholar&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
@@ -168,6 +168,6 @@ Pattern Recognition (**PR**), 2024.
 - *2024.12* Lenovo Enterprise Scholarship (Top 5%)
 - *2025.10* ICT National Scholarships (Top 10%)
 
-# 📖 Activities
+# 💻 Activities
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
 - Journal Reviewers: IJCV, TIP, TMM, TNNLS, TCSVT, PR
