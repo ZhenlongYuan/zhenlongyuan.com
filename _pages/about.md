@@ -16,14 +16,19 @@ Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes Vision-Language Model (VLM), Natural Language Processing (NLP), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ZhenlongYuan/google-scholar-badge/data.json&logo=googlescholar&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
-I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (yuanzhenlong21b@ict.ac.cn) or WeChat (ID: YZL20000224).
+I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email or WeChat (ID: YZL20000224).
 
 # 📚 Research Interests
-- ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
-- ***Multimodal Post-Training (Reasoning, Alignment, Benchmarks, Agent)🔥🔥***
-- ***Tool-Augmented Agentic RL (Visual Tools, RAG, Search Engine, Code Interpreter, APIs etc.)🔥🔥***
-- ***Agent Application (Autonomous Driving, Biomedicine, Embodied AI)🔥🔥***
-- 
+- ***Foundation Models & Pre-training 🔥🔥***
+  - Vision-Language Models (VLMs) | Vision-Language Action (VLA) | Spatial Intelligence
+- ***Model Enhancement & Post-training 🔥🔥***
+  - Reasoning & Alignment | Tool-Augmented RL | NLP-Enhanced Training
+- ***Model Interpretation 🔥🔥***
+  - Mechanistic Interpretability | Factuality, Truthfulness, and Social Good
+- ***Real-World Applications🔥🔥***
+  - Embodied Agents | AI for Science | Biomedical Engineering
+
+
 # 🔥 Main News
 
 - *2025.10*: &nbsp;🎉🎉 We propose Video-STAR, which is now available on ArXiv!
