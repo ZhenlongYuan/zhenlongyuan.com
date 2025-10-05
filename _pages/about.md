@@ -20,7 +20,9 @@ I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">*
 
 # 📚 Research Interests
 - ***Foundation Models & Pre-training 🔥🔥***
-  - Vision-Language Models (VLMs) | Vision-Language Action (VLA) | Spatial Intelligence
+  - Vision-Language Models (VLMs)
+  - Vision-Language Action (VLA)
+  - Spatial Intelligence
 - ***Model Enhancement & Post-training 🔥🔥***
   - Reasoning & Alignment | Tool-Augmented RL | NLP-Enhanced Training
 - ***Model Interpretation 🔥🔥***
