@@ -16,7 +16,7 @@ Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes Vision-Language Model (VLM), Natural Language Processing (NLP), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ZhenlongYuan/google-scholar-badge/data.json&logo=googlescholar&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
-<span style="color:red"> I will be graduating with my Ph.D. in June 2026 and am **now exploring PostDoc opportunities for Fall 2026**. If you are interested in my profile, feel free to contact with me via [email](yuanzhenlong21b@ict.ac.cn) or WeChat (ID: YZL20000224).</span>
+I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (yuanzhenlong21b@ict.ac.cn) or WeChat (ID: YZL20000224).
 
 # 📚 Research Interests
 - ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
