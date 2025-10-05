@@ -14,7 +14,7 @@ redirect_from:
 I'm currently a research intern in AMAP, Alibaba, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am fortunate to collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhu Li](https://l.web.umkc.edu/lizhu/) and [LiangLin](http://www.linliang.net/). 
 I am deeply grateful for their guidance throughout my academic journey.
 
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journal. 
+My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ZhenlongYuan/google-scholar-badge/data.json&logo=googlescholar&label=citations"></a> at the top international AI conferences and journal. 
 
 <span style="color:red"> I will be graduating with my Ph.D. in June 2026 and am now exploring PostDoc opportunities for Fall 2026. If you are interested in my profile, feel free to contact with me via email or WeChat (ID: YZL20000224).</span>
 
