@@ -16,10 +16,14 @@ Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes Vision-Language Model (VLM), Natural Language Processing (NLP), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <a href='https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ZhenlongYuan/google-scholar-badge/data.json&logo=googlescholar&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
-<span style="color:red"> I will be graduating with my Ph.D. in June 2026 and am now exploring PostDoc opportunities for Fall 2026. If you are interested in my profile, feel free to contact with me via email or WeChat (ID: YZL20000224).</span>
+<span style="color:red"> I will be graduating with my Ph.D. in June 2026 and am **now exploring PostDoc opportunities for Fall 2026**. If you are interested in my profile, feel free to contact with me via [email](yuanzhenlong21b@ict.ac.cn) or WeChat (ID: YZL20000224).</span>
 
 # 📚 Research Interests
-
+- ***Multimodal Foundation Models (VLM, VLA, Videos, Spatial Intelligence etc.)🔥***
+- ***Multimodal Post-Training (Reasoning, Alignment, Benchmarks, Agent)🔥🔥***
+- ***Tool-Augmented Agentic RL (Visual Tools, RAG, Search Engine, Code Interpreter, APIs etc.)🔥🔥***
+- ***Agent Application (Autonomous Driving, Biomedicine, Embodied AI)🔥🔥***
+- 
 # 🔥 Main News
 
 - *2025.10*: &nbsp;🎉🎉 We propose Video-STAR, which is now available on ArXiv!
