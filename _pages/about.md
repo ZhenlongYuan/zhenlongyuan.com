@@ -141,7 +141,7 @@ Pattern Recognition (**PR**), 2024.
 </div>
 </div>
 
-## All Publications
+# 📖 All Publications
 - ``Preprint`` [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools.]() **Z Yuan**, X Qu, C Qian, et al.
 - ``Preprint`` [AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving.](https://arxiv.org/pdf/2509.01944) **Z Yuan**, J Tang, J Luo, et al.
 - ``Preprint`` [Pure Vision Language Action (VLA) Models: A Comprehensive Survey.](https://arxiv.org/pdf/2509.19012) D Zhang, J Sun, C Hu, X Wu, **Z Yuan**, et al.
