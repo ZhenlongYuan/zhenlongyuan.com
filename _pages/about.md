@@ -165,8 +165,8 @@ Pattern Recognition (**PR**), 2024.
 - ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
 
 # 🎖 Honors
-- *2024.12* Lenovo Enterprise Scholarship (Top 1%)
-- *2022.09-2025.09* Four Times ICT First Class Scholarships (Top 5%)
+- *2024.12* Lenovo Enterprise Scholarship (Top 5%)
+- *2025.10* ICT National Scholarships (Top 10%)
 
 # 🎙 Activities
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
