@@ -164,7 +164,10 @@ Pattern Recognition (**PR**), 2024.
 - ``PR 2024`` [Tsar-mvs: Textureless-aware segmentation and correlative refinement guided multi-view stereo.](https://arxiv.org/pdf/2308.09990), **Z Yuan**, J Cao, Z Wang, et al. 
 - ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
 
-# 🎖 Activities
+# 🎖 Honors
 - *2024.12* Lenovo Enterprise Scholarship (Top 1%)
-- *2022.10-2024.10* Three Times ICT First Class Scholarships (Top 5%)
-- *2022.05-2024.05* Three Times UCAS Outstanding Student Awards 
+- *2022.09-2025.09* Four Times ICT First Class Scholarships (Top 5%)
+
+# 🎙 Activities
+- Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
+- Journal Reviewers: IJCV, TIP, TMM, TNNLS, TCSVT, PR
