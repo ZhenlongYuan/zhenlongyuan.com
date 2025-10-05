@@ -140,14 +140,14 @@ Pattern Recognition (**PR**), 2024.
 </div>
 
 ## All Publications
-- ``Preprint`` [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools.] Yuan, Z., Qu X., Qian, C., et al.
+- ``Preprint`` [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools.]() **Z Yuan**, X Qu, C Qian, et al.
 - ``Preprint`` [AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving.](https://arxiv.org/pdf/2509.01944) **Z Yuan**, J Tang, J Luo, et al.
 - ``Preprint`` [Pure Vision Language Action (VLA) Models: A Comprehensive Survey.](https://arxiv.org/pdf/2509.19012) D Zhang, J Sun, C Hu, X Wu, **Z Yuan**, et al.
-- ``Preprint`` [AT-Drive: Exploiting Adversarial Transfer for End-to-end Autonomous Driving.]() Zhao S., Wu X., Ren H., Huang K., **Yuan Z.**, et al.
+- ``Preprint`` [AT-Drive: Exploiting Adversarial Transfer for End-to-end Autonomous Driving.]() D Zhang, **Z Yuan**, K Huang, et al.
 - ``Preprint`` [ADDI: A Simplified E2E Autonomous Driving Model with Distinct Experts and Implicit Interactions.]() D Zhang, **Z Yuan**, Chen Y., et al.
 - ``Preprint`` [EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning.](https://arxiv.org/pdf/2508.17703) Y Chen, Y He, J Yang, D Zhang, **Z Yuan**, et al. 
 - ``Preprint`` [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo.](https://arxiv.org/pdf/2506.13215) **Z Yuan**, D Zhang, Z Li, et al.
-- ``NIPS 2025`` [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection.]() Luo J., Ren W., Zheng Q., Zhang Y., **Yuan Z.**, et al.
+- ``NIPS 2025`` [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection.]() J Luo, W Ren , Q Zheng, Y Zhang, **Z Yuan**, et al.
 - ``IEEE TCSVT 2025`` [Learning multi-view stereo with geometry-aware prior.](https://ieeexplore.ieee.org/abstract/document/11029471) K Chen, **Z Yuan**, H Xiao, T Mao, et al. 
 - ``HCII 2025`` [MR-IntelliAssist: A World Cognition Agent Enabling Adaptive Human-AI Symbiosis in Industry 4.0.](https://link.springer.com/chapter/10.1007/978-3-031-93429-2_11), C Liu, **Z Yuan**, Y Wang, Y Yin, et al. 
 - ``IEEE TCSVT 2025`` [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint.](https://arxiv.org/pdf/2503.13721), **Z Yuan**, Z Yang, Y Cai, et al. 
