@@ -80,7 +80,6 @@ Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
 [[Paper]](https://arxiv.org/abs/2506.13215)
-[[Code]](https://github.com/ZhenlongYuan/DVP-MVS++)
 </div>
 </div>
 
@@ -94,7 +93,6 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
 [[Paper]](https://ieeexplore.ieee.org/document/11016951)
-[[Code]](https://github.com/ZhenlongYuan/SED-MVS)
 </div>
 </div>
 
