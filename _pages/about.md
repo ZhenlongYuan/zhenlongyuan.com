@@ -14,6 +14,8 @@ redirect_from:
 I'm currently a research intern in AMAP, Alibaba, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). My Ph.D. graduation is scheduled for June 2026. I am fortunate to collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhu Li](https://l.web.umkc.edu/lizhu/) and [LiangLin](http://www.linliang.net/). 
 I serve as a reviewer for NeurIPS, ICML, ICLR, CVPR, and ICCV.
 
+<span style="color:purple">I am actively seeking a 26 Fall CS PhD position. I am always open to collaborate, feel free to drop me an email or contact with me on wechat ID qiancxdotcom.</span>
+
 PS: I am currently seeking fot a 26 Fall PostDoc position. 
 
 # 📚 Research Interests
