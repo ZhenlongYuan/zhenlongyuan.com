@@ -11,11 +11,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me 
-I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology (ICT), Chinese Academy of Sciences (UCAS)](https://www.ict.ac.cn/) (中国科学院计算技术研究所), advised by Zhaoqi Wang (王兆其). 
+I'm currently a research intern in AMAP, Alibaba, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). My Ph.D. graduation is scheduled for June 2026. I am fortunate to collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhu Li](https://l.web.umkc.edu/lizhu/) and [LiangLin](http://www.linliang.net/). 
+I serve as a reviewer for NeurIPS, ICML, ICLR, CVPR, and ICCV.
 
-My research interest includes vision-language model (VLM), medical image and 3D computer vision (3DCV). 
-I have published 10+ papers at the top international AI conferences including NeurIPS, ICLR, CVPR, ICCV, AAAI, etc. and jourlnal including IEEE TIP (IF 13.7), IEEE TCSVT (IF 11.1), IEEE TMM (IF 9,7), etc.
-If you are seeking any form of **academic cooperation**, please feel free to email me at [yuanzhenlong21b@ict.ac.cn](mailto:yuanzhenlong21b@ict.ac.cn)
+PS: I am currently seeking fot a 26 Fall PostDoc position. 
 
 # 📚 Research Interests
 
