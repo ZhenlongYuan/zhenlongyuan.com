@@ -140,6 +140,29 @@ Pattern Recognition (**PR**), 2024.
 </div>
 </div>
 
+## All Publications
+- ``Preprint`` [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools.] Yuan, Z., Qu X., Qian, C., et al.
+- ``Preprint`` [AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving.](https://arxiv.org/pdf/2509.01944) **Z Yuan**, J Tang, J Luo, et al.
+- ``Preprint`` [Pure Vision Language Action (VLA) Models: A Comprehensive Survey.](https://arxiv.org/pdf/2509.19012) D Zhang, J Sun, C Hu, X Wu, **Z Yuan**, et al.
+- ``Preprint`` [AT-Drive: Exploiting Adversarial Transfer for End-to-end Autonomous Driving.]() Zhao S., Wu X., Ren H., Huang K., **Yuan Z.**, et al.
+- ``Preprint`` [ADDI: A Simplified E2E Autonomous Driving Model with Distinct Experts and Implicit Interactions.]() D Zhang, **Z Yuan**, Chen Y., et al.
+- ``Preprint`` [EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning.](https://arxiv.org/pdf/2508.17703) Y Chen, Y He, J Yang, D Zhang, **Z Yuan**, et al. 
+- ``Preprint`` [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo.](https://arxiv.org/pdf/2506.13215) **Z Yuan**, D Zhang, Z Li, et al.
+- ``NIPS 2025`` [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection.]() Luo J., Ren W., Zheng Q., Zhang Y., **Yuan Z.**, et al.
+- ``IEEE TCSVT 2025`` [Learning multi-view stereo with geometry-aware prior.](https://ieeexplore.ieee.org/abstract/document/11029471) K Chen, **Z Yuan**, H Xiao, T Mao, et al. 
+- ``HCII 2025`` [MR-IntelliAssist: A World Cognition Agent Enabling Adaptive Human-AI Symbiosis in Industry 4.0.](https://link.springer.com/chapter/10.1007/978-3-031-93429-2_11), C Liu, **Z Yuan**, Y Wang, Y Yin, et al. 
+- ``IEEE TCSVT 2025`` [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint.](https://arxiv.org/pdf/2503.13721), **Z Yuan**, Z Yang, Y Cai, et al. 
+- ``AAAI 2025`` [Dual-level precision edges guided multi-view stereo with accurate planarization.](https://ojs.aaai.org/index.php/AAAI/article/view/32208/34363), K Chen, **Z Yuan**, T Mao, et al. 
+- ``AAAI 2025`` [Mapexpert: Online hd map construction with simple and efficient sparse map element expert.](https://ojs.aaai.org/index.php/AAAI/article/download/33616/35771), D Zhang, D Chen, P Zhi, Y Chen, **Z Yuan**, et al. 
+- ``AAAI 2025`` [DVP-MVS: Synergize depth-edge and visibility prior for multi-view stereo.](https://ojs.aaai.org/index.php/AAAI/article/view/33056/35211), **Z Yuan**, J Luo, F Shen, et al. 
+- ``AAAI 2025`` [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo.](https://ojs.aaai.org/index.php/AAAI/article/download/33057/35212), **Z Yuan**, C Liu, F Shen, et al. 
+- ``Preprint`` [Light4gs: Lightweight compact 4d gaussian splatting generation via context model.](https://arxiv.org/pdf/2503.13948?), M Liu, Q Yang, H Huang, W Huang, **Z Yuan**, et al. 
+- ``Preprint`` [Adaptive label correction for robust medical image segmentation with noisy labels.](https://arxiv.org/pdf/2503.12218), C Qian, K Han, J Ding, L Liu, C Lyu, **Z Yuan**, et al. 
+- ``Preprint`` [Dyncim: Dynamic curriculum for imbalanced multimodal learning.](https://arxiv.org/pdf/2503.06456), C Qian, K Han, J Wang, **Z Yuan**, et al. 
+- ``PR 2025`` [Nerf-based polarimetric multi-view stereo.](https://www.sciencedirect.com/science/article/pii/S0031320324007878), J Cao, **Z Yuan**, T Mao, et al. 
+- ``PR 2024`` [Tsar-mvs: Textureless-aware segmentation and correlative refinement guided multi-view stereo.](https://arxiv.org/pdf/2308.09990), **Z Yuan**, J Cao, Z Wang, et al. 
+- ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
+
 # 🎖 Activities
 - *2024.12* Lenovo Enterprise Scholarship (Top 1%)
 - *2022.10-2024.10* Three Times ICT First Class Scholarships (Top 5%)
