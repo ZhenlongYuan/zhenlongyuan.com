@@ -168,6 +168,6 @@ Pattern Recognition (**PR**), 2024.
 - *2024.12* Lenovo Enterprise Scholarship (Top 5%)
 - *2025.10* ICT National Scholarships (Top 10%)
 
-# 🎙 Activities
+# 📖 Activities
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
 - Journal Reviewers: IJCV, TIP, TMM, TNNLS, TCSVT, PR
