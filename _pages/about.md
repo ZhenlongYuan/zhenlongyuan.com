@@ -17,7 +17,7 @@ Truly grateful for their guidance throughout my academic journey.
 My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <img src="https://img.shields.io/badge/citations-125-red?logo=googlescholar" alt="citations"> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
 
-I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email ( yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat ( YZL20000224).
+I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (📧 yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat (📧 YZL20000224).
 
 # 📚 Research Interests
 - ***Foundation Models & Pre-training 🔥🔥***
@@ -173,7 +173,7 @@ Pattern Recognition (**PR**), 2024.
 - ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
 
 # 🏆 Awards and Service
-- *2024.12* Lenovo Enterprise Scholarship (Top 5%)
-- *2025.10* ICT National Scholarships (Top 10%)
+- *2024.12* Lenovo Enterprise Scholarship (Top 3%)
+- *2025.10* ICT National Scholarships (Top 5%)
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
 - Journal Reviewers: IJCV, TIP, TMM, TNNLS, TCSVT, PR
