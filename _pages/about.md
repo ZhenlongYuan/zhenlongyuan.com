@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me 
+# 👋 About Me 
 I'm currently a research intern in AMAP <img src='./images/AMAP.png' style="width: 1.8em;">, Alibaba <img src='./images/Alibaba.png' style="width: 1.7em;">, working with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am fortunate to deeply collaborate with [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), [Yujun Cai](https://vanoracai.github.io/), and [Yiwei Wang](https://wangywust.github.io/), and more broadly with [Manling Li](https://limanling.github.io/), [Zhengzhong Tu](https://vztu.github.io/) and [LiangLin](http://www.linliang.net/). 
 Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes Vision-Language Model (VLM), Natural Language Processing (NLP), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <img src="https://img.shields.io/badge/citations-125-red?logo=googlescholar" alt="citations"> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
-I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email or WeChat (ID: YZL20000224).
+I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (📧 yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat (📧 YZL20000224).
 
 # 📚 Research Interests
 - ***Foundation Models & Pre-training 🔥🔥***
@@ -171,7 +171,7 @@ Pattern Recognition (**PR**), 2024.
 - ``PR 2024`` [Tsar-mvs: Textureless-aware segmentation and correlative refinement guided multi-view stereo.](https://arxiv.org/pdf/2308.09990), **Z Yuan**, J Cao, Z Wang, et al. 
 - ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
 
-# 🏆 Awards & Service
+# 🏆 Awards and Service
 - *2024.12* Lenovo Enterprise Scholarship (Top 5%)
 - *2025.10* ICT National Scholarships (Top 10%)
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
