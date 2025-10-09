@@ -16,7 +16,6 @@ Truly grateful for their guidance throughout my academic journey.
 
 My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 18+ papers <img src="https://img.shields.io/badge/citations-125-red?logo=googlescholar" alt="citations"> at the top international AI conferences such as NeurIPS, ICLR, CVPR, ICCV, AAAI.
 
-
 I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">**now exploring PostDoc opportunities for Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (📧 yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat (📧 YZL20000224).
 
 # 📚 Research Interests
