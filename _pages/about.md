@@ -31,7 +31,7 @@ I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">*
 
 # 🔥 Main News
 
-- *2025.10*: &nbsp;🎉🎉 We propose Video-STAR, which is now available on ArXiv!
+- *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
 - *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
 - *2025.06*: &nbsp;🎉🎉 We propose [DVP-MVS++](https://arxiv.org/abs/2506.13215), which is now available on ArXiv!
