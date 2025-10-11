@@ -52,7 +52,7 @@ I will be graduating with my Ph.D. in June 2026 and am <span style="color:red">*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Video-STAR: Reinforcing Zero-shot Video Understanding with Tools
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
