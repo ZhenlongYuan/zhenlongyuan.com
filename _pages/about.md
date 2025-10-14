@@ -111,7 +111,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/MSP-MVS2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
 
